@@ -11,7 +11,3 @@ added by the user, which are organized vertically.
 Users are given the option to add, modify, and delete tasks from
 the main activity as shown in the gif above.
 
-
-#Deleting tasks
-![](Todo2.gif)
-Tasks can be deleted by swiping it out of the screen
