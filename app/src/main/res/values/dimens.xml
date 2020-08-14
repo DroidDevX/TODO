@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textViewsize_taskItem">16sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <!-- Task Detail activity-->
+    <dimen name="padding_activity_taskDetail">16dp</dimen>
+    <dimen name="titleText_taskDetail">22sp</dimen>
+    <dimen name="descriptionText_taskDetail">18sp</dimen>
+    <dimen name="textView_margin_taskDetail">8dp</dimen>
+
+</resources>
